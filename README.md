@@ -10,4 +10,4 @@ You can find me online via:
 
 - 💻 [brendangriffen.com](https://brendangriffen.com)
 - 🐦 [@brendangriffen](https://twitter.com/brendangriffen)
-- 📬 [brendan.f.griffen@gmail.com](mailto:brendan.f.griffen@gmail.com)
+- 📬 [contact@grifflabs.dev](mailto:contact+github@grifflabs.dev)
