@@ -12,4 +12,4 @@ You can find me online via:
 - 🐦 [@brendangriffen](https://twitter.com/brendangriffen)
 - 📬 [contact@grifflabs.dev](mailto:contact+github@grifflabs.dev)
 
-I also help build deep tech companies big and small over at [grifflabs.dev](github.com/grifflabsdev) - reach out if you'd like to collaborate.
+I also help build deep tech companies big and small over at [grifflabs.dev](http://github.com/grifflabsdev) - reach out if you'd like to collaborate.
